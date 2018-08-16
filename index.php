@@ -195,13 +195,13 @@ var b = document.forms["form"]["cpassword"].value;if (a!=b){alert("Passwords mus
         <p>
 		<div class="row">
 		<div class="col-md-4">
-		 <img src="image/CAM00121.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
+		 <img src="https://www.facebook.com/photo.php?fbid=2165721693717406&set=a.1394812440808339.1073741826.100008387893714&type=3&theater" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="http://yugeshverma.blogspot.in" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Yugesh Verma</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91 9165063741</h4>
-		<h4 style="font-family:'typo' ">vermayugesh323@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Chhattishgarh insitute of management & Technology ,bhilai</h4></div></div>
+		<a href="http://bappyblog.ga" style="color:#202020; font-family:'typo' ; font-size:18px" title="">Bappy</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+880 1941-255947</h4>
+		<h4 style="font-family:'typo' ">safanahmed5@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Khulna University of Engineering & Technology</h4></div></div>
 		</p>
       </div>
     
